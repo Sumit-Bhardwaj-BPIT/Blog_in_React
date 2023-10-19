@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/css/main.bebe230d.css",
-    "main.js": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/js/main.43f40370.js",
+    "main.js": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/js/main.e213925f.js",
     "index.html": "/Sumit-Bhardwaj-BPIT/Blog_in_React/index.html",
     "main.bebe230d.css.map": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/css/main.bebe230d.css.map",
-    "main.43f40370.js.map": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/js/main.43f40370.js.map"
+    "main.e213925f.js.map": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/js/main.e213925f.js.map"
   },
   "entrypoints": [
     "static/css/main.bebe230d.css",
-    "static/js/main.43f40370.js"
+    "static/js/main.e213925f.js"
   ]
 }

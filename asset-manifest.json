@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/css/main.bebe230d.css",
+    "main.js": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/js/main.42570ee0.js",
+    "index.html": "/Sumit-Bhardwaj-BPIT/Blog_in_React/index.html",
+    "main.bebe230d.css.map": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/css/main.bebe230d.css.map",
+    "main.42570ee0.js.map": "/Sumit-Bhardwaj-BPIT/Blog_in_React/static/js/main.42570ee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebe230d.css",
+    "static/js/main.42570ee0.js"
+  ]
+}
